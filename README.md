@@ -16,5 +16,20 @@ there are 2 special buttons for cool effects:
 2. fire effect, you can set the ball on fire!, the ball will start to emmit fire particles and will act as the light source of the screen, you can throw the ball and see how the fire follows it.
 
 # Screenshots:
+![Screenshot 1](/bowling%20pics/1.png)
+![Screenshot 2](/bowling%20pics/2.png)
+![Screenshot 3](/bowling%20pics/3.png)
+![Screenshot 4](/bowling%20pics/4.png)
+![Screenshot 5](/bowling%20pics/5.png)
+![Screenshot 6](/bowling%20pics/6.png)
+![Screenshot 7](/bowling%20pics/7.png)
+![Screenshot 8](/bowling%20pics/8.png)
+![Screenshot 9](/bowling%20pics/9.png)
+![Screenshot 10](/bowling%20pics/10.png)
+![Screenshot 11](/bowling%20pics/11.png)
+![Screenshot 12](/bowling%20pics/12.png)
+![Screenshot 13](/bowling%20pics/13.png)
+
+
 
 
